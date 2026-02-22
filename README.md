@@ -5,7 +5,7 @@ Mobs:
 - Stegosaurus
 - T-rex
 - Triceratops
-- Carnitaurus
+- Carnotaurus
 - Diplodocus
 - Velociraptor
 - Deinonychus
@@ -29,7 +29,7 @@ Items:
  - Stegosaurus egg
  - T-rex egg
  - Triceratops egg
- - Carnitaurus egg
+ - Carnotaurus egg
  - Diplodocus egg
  - Velociraptor egg
  - Deinonychus egg
