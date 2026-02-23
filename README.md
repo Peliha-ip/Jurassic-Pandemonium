@@ -36,3 +36,6 @@ Items:
  - Utahraptor egg
  - Troodon egg
  - Ankylosaurus egg
+
+Dimension:
+- Mirror overworld
