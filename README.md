@@ -12,6 +12,27 @@ Mobs:
 - Utahraptor
 - Troodon
 - Ankylosaurus
+- Spinosaurus
+- Brachiosaurus
+- Brontosaurus
+- Allosaurus
+- Megalosaurus
+- Ceratosaurus
+- Iguanodon
+- Parasaurolophus
+- Corythosaurus
+- Lambeosaurus
+- Edmontosaurus
+- Euoplocephalus
+- Pachycephalosaurus
+- Kentrosaurus
+- Dryosaurus
+- Therizinosaurus
+- Baryonyx
+- Plateosaurus
+- Monolophosaurus
+- Dilophosaurus
+- Archaeopteryx
 - Zombie dinosaur
 - Skeleton dinosaur
 - Paleo-warden
@@ -54,6 +75,27 @@ Items:
 - Paleo-wither spawn egg
 - Paleo-frog spawn egg
 - Paleo-allay spawn egg
+- Spinosaurus soawn egg
+- Brachiosaurus spawn egg
+- Brontosaurus spawn egg
+- Allosaurus spawn egg
+- Megalosaurus spawn egg
+- Ceratosaurus spawn egg
+- Iguanodon spawn egg
+- Parasaurolophus spawn egg
+- Corythosaurus spawn egg
+- Lambeosaurus spawn egg
+- Edmontosaurus spawn egg
+- Euoplocephalus spawn egg
+- Pachycephalosaurus spawn egg
+- Kentrosaurus spawn egg
+- Dryosaurus spawn egg
+- Therizinosaurus spawn egg
+- Baryonyx spawn egg
+- Plateosaurus spawn egg
+- Monolophosaurus spawn egg
+- Dilophosaurus spawn egg
+- Archaeopteryx spawn egg
 
  Blocks:
  - Stegosaurus egg
@@ -66,6 +108,27 @@ Items:
  - Utahraptor egg
  - Troodon egg
  - Ankylosaurus egg
+ - Spinosaurus egg
+ - Brachiosaurus egg
+ - Brontosaurus egg
+ - Allosaurus egg
+ - Megalosaurus egg
+ - Ceratosaurus egg
+ - Iguanodon egg
+ - Parasaurolophus egg
+ - Corythosaurus egg
+ - Lambeosaurus egg
+ - Edmontosaurus egg
+ - Euoplocephalus egg
+ - Pachycephalosaurus egg
+ - Kentrosaurus egg
+ - Dryosaurus egg
+ - Therizinosaurus egg
+ - Baryonyx egg
+ - Plateosaurus egg
+ - Monolophosaurus egg
+ - Dilophosaurus egg
+ - Archaeopteryx egg
  - Paleo-frogspawn
 
 Dimension:
@@ -73,3 +136,10 @@ Dimension:
 
 Features:
 - If in the mirror overworld for too long, armadillos, bats, camels, cats, cows, donkeys, frogs, horses, mooshrooms, mules, ocelots, turtles, parrots, pigs, rabbits, sheep, striders, tadpoles, villagers, wandering traders, cods, salmons, tropical fish, pufferfish, dolphins, foxes, goats, llamas, pandas, piglins immune to zombification, polar bears, piglin brutes immune to zombification, hoglins immune to zombification, trader llamas, wolves, evokers, pillagers, ravagers, vindicators, and witches will end up dying because they're incompatible and will quickly die from diseases, predations, or incompatible conditions. These mobs will also run away from mirror overworld portals.
+- Dinosaur eggs can be found in warm ancient ruins.
+
+Advancements: 
+- Remember Who You Are (Bring a chicken to the mirror overworld)
+- Jurassic Marsh (Enter the mirror overworld)
+- Jurassic Park (Have all dinosaurs in the normal overworld)
+- Primordial Pal (Bring a paleo-allay to the normal overworld)
