@@ -35,6 +35,12 @@ Mobs:
 - Archaeopteryx
 - Fungiceratops
 - Chomper
+- Spitter
+- Plucker
+- Trampler
+- Watcher
+- Weaver
+- Feller
 - Zombie dinosaur
 - Skeleton dinosaur
 - Paleo-warden
@@ -72,6 +78,7 @@ Items:
 - Amber horn
 - T. rex tooth
 - Chomper armor
+- Plucker cud
 - Bucket of Lepidotes
 - Bucket of Xiphactinus
 - Stegosaurus spawn egg
@@ -128,6 +135,12 @@ Items:
 - Archaeopteryx spawn egg
 - Fungiceratops spawn egg
 - Chomper spawn egg
+- Spitter spawn egg
+- Plucker spawn egg
+- Trampler spawn egg
+- Watcher spawn egg
+- Weaver spawn egg
+- Feller spawn egg
 - Zombie dinosaur spawn egg
 - Skeleton dinosaur spawn egg
 - Paleo-warden spawn egg
@@ -207,8 +220,17 @@ Items:
  - Ginkgo stem
  - Ginkgo sapling
  - Cerulean vine
+ - Spinegrain crop
+ - Resinroot crop
+ - Sunspire crop
+ - Earthtuber crop
+ - Bitterpod fern
+ - Glowbulb shrub
+ - Sunpod bush
  - Amber block
  - Paleo-creaking heart
+ - Bristleback
+ - Mesozoic bed
  - Stegosaurus egg
  - T. rex egg
  - Triceratops egg
@@ -242,6 +264,12 @@ Items:
  - Archaeopteryx egg
  - Fungiceratops egg
  - Chomper egg
+ - Spitter egg
+ - Plucker egg
+ - Trampler egg
+ - Watcher egg
+ - Weaver egg
+ - Feller egg
  - Paleo-frogspawn
 
 Dimension:
@@ -254,10 +282,20 @@ Food:
 - Cooked Ciphactinus
 - Amber apple
 - Ginkgo extract
+- Sunpod
+- Glowbulb
+- Bitterpod
+- Earthtuber
+- Sunspire
+- Resinroot
+- Spinegrain bread
+- Amber sunspire
+- Amber glowbulb
+- Enchanted golden glowbulb
 
 Structures:
 - Tree fern
-- Ginkgo trees
+- Ginkgo tree
 - Raptor Raider outpost
 - Raptor Raider mansion
 - Saurian village
@@ -278,11 +316,14 @@ Biomes:
 Enchantment:
 - Prehistoric Resilience
 
+Effect:
+- Dino-might
+
 Features:
 - Mirror overworld portals can be made just like a Nether portal, but packed mud replaces the obsidian, and water replaces the fire, making disabled mirror overworld portal blocks all over the frame. Throwing a fire charge into the portal will cause the mirror overworld portal to be enabled.
-- If in the mirror overworld for too long, axolotls, armadillos, bats, camels, cats, cows, donkeys, frogs, horses, mooshrooms, mules, ocelots, turtles, parrots, pigs, rabbits, sheep, striders, tadpoles, villagers, wandering traders, cods, salmons, tropical fish, pufferfish, dolphins, foxes, goats, llamas, pandas, piglins immune to zombification, polar bears, piglin brutes immune to zombification, hoglins immune to zombification, trader llamas, wolves, evokers, pillagers, ravagers, vindicators, and witches will end up dying because they're incompatible and will quickly die from diseases, predations, or incompatible conditions. These mobs will also run away from mirror overworld portals.
+- If in the mirror overworld for too long, axolotls, armadillos, bats, camels, cats, cows, donkeys, frogs, horses, mooshrooms, mules, ocelots, turtles, parrots, pigs, rabbits, sheep, striders, tadpoles, villagers, wandering traders, cods, salmons, tropical fish, pufferfish, dolphins, foxes, goats, llamas, pandas, piglins immune to zombification, polar bears, piglin brutes immune to zombification, hoglins immune to zombification, trader llamas, wolves, evokers, pillagers, ravagers, vindicators, and witches will end up dying because they're incompatible and will quickly die from diseases, predations, or incompatible conditions. These mobs will also run away from mirror overworld portals. If they somehow find their way to the mirror overworld, they will go straight to the portal to get back to the classic overworld. If they're too far from the portal, these mobs will also tremble, indicating to the player that the mirror overworld is bad for them. Wolves, foxes, and axolotls get weaker if they're in the mirror overworld, incompatible mounts won't cooperate, villagers and wandering traders won't trade, and piglins won't barter.
 - Trees from the classic overworld won't grow in the mirror overworld either. Same for azaleas, bamboo, beetroots, carrots, potatoes, wheat, bushes, sweet berry bushes, firefly bushes, pink petals, wildflowers, sunflowers, rose bushes, peonies, lilacs, cacti, cocoa beans, melons, pumpkins, and sugar canes.
-- Players will also die if in the mirror overworld for too long, unless if their chestplate is enchanted with Prehistoric Resilience. Prehistoric Resilience can be occasionally bartered from piglins.
+- Players will also die if in the mirror overworld for too long, unless their chestplate is enchanted with Prehistoric Resilience. Prehistoric Resilience can be occasionally bartered from piglins.
 - Dinosaur eggs can be found in warm ancient ruins.
 - These vanilla mobs can still spawn in the mirror overworld: sniffer, bee, nautilus, and zombie nautilus. Zombie nautilus jockeys from the mirror overworld are ridden by zombie dinosaurs instead of the drowneds from the classic overworld.
 - Instead of zombies, skeletons, creepers, spiders, husks, strays, boggeds, parcheds, drowneds, and endermen populating the mirror overworld at night, clawborns, bonekins, saurfolks, dinosuls, theraks, velokhans, zombie and skeleton dinosaurs, zombie crestfolk, paleo-creepers, and paleo-endermen populate the mirror overworld at night. Unlike most undead mobs in the classic overworld, undead mobs native to the mirror overworld won't burn during the day, giving more room to cure zombie crestfolks but making undead mobs still loaded to attack well during the day.
@@ -290,22 +331,31 @@ Features:
 - Crestfolks are practically the villagers of the mirror overworld. However, unlike villages and villagers, crestfolks populating the saurian villages aren't defenseless. These villages can only be entered through a bridge that closes at night, since stone walls and lava moats surround them. Trying to enter a saurian village at night is not a good idea since guards will attack anything on sight near the bridge. The guards also deal a lot of damage since they have to deal with almost everything. Guard crestfolks have both ranged and melee weapons; not even a wither or a warden is safe from the guards. The only mobs a guard won't attack at night are other crestfolks, saurian golems, and zombie crestfolks. For zombie crestfolks, guards will usually capture them and send them to the infirmary when the sun rises.
 - Amber is the main resource used in saurian villages. Because just like villagers use emeralds as currency, crestfolks use amber as currency. Amber can be dropped from paleo-creepers or Raptor Raiders, gifted from chompers, traded from crestfolks, or extracted from Araucarioxylon trees. Chompers can also equip chomper armor, which is, of course, made of amber.
 - Placing an amber block, a bone block, a cycad, and Araucarioxylon planks in a square shape with a pumpkin on top will summon a saurian golem, the saurian version of the iron golem, even more powerful, especially during wartime.
-- Thinking of mistreating crestfolks as you do with villagers, I have bad news: crestfolks are easily subdoable. Attack one crestfolk, and the entire village will attack you and kill you in seconds. Thinking of kidnapping crestfolks with boats or minecarts, guess what, guards will also attack them. The only way to get a crestfolk to your base is if you cure a zombie crestfolk, and even a cured crestfolk doesn't mess around. Hit it, and you get one shot. They can also break blocks if they feel trapped, but a house should be enough for a cured crestfolk. You can also have a cured crestfolk to be your bodyguard if you treat them correctly.
+- Thinking of mistreating crestfolks as you do with villagers, I have bad news: crestfolks aren't easily subdoable. Attack one crestfolk, and the entire village will attack you and kill you in seconds. Thinking of kidnapping crestfolks with boats or minecarts, guess what, guards will also attack them. The only way to get a crestfolk to your base is if you cure a zombie crestfolk, and even a cured crestfolk doesn't mess around. Hit it, and you get one shot. They can also break blocks if they feel trapped, but a house should be enough for a cured crestfolk. You can also have a cured crestfolk to be your bodyguard if you treat them correctly.
 - Crestfolks and Raptor Raiders are at war; however, crestfolks will usually win since the guards are already super lethal. The only way Raptor Raiders stand a chance against saurian villages is if they appear in a giant siege, and even then, crestfolks usually win.
-- To cure a zombie crestfolk, it's the same as with zombie villages, but instead of using a golden apple, an amber apple is used.
-- Amber horns are used to deter dinosaurs from whoever used the amber horn. They're usually used by crestfolks to deter dinosaurs from trampling on saurian villages.
+- To cure a zombie crestfolk, it's the same as with zombie villages, but instead of using a golden apple, an amber apple or an amber glowbulb is used.
+- Amber horns are used to deter dinosaurs from whoever used the amber horn. Crestfolks usually use them to deter dinosaurs from trampling on saurian villages.
 - The only vanilla biomes present in the mirror overworld are plains, snowy plains, ice spikes, beaches, snowy beaches, stony shores, badlands, eroded badlands, swamps, deserts, all oceans, jagged peaks, frozen peaks, snowy slopes, windswept hills, windswept gravelly hills, rivers, frozen rivers, lush caves, dripstone caves, and the deep dark, not unchanged though. Any other biome will be replaced with a mirror biome.
 - In the deep dark of the mirror overworld, sculk shriekers will summon paleo-wardens instead of wardens.
 - Paleo-pale gardens are vast plains instead of woodlands like in the classic overworld. Paleo-creaking hearts blend into the ground instead of a pale oak tree.
 - Insomnia in the mirror overworld will spawn paleo-phantoms instead of phantoms.
 - Paleo-allays are found within Raptor Raiders outposts and mansions. They can be duplicated with amber instead of amethyst.
-- Paleo-shulkers are found in Mesozoic marshes and Cretaceous dunes. They act just like their modern counterpart, but spawn within the biomes instead of being generated in a structure. They still spawn rarely, or else, if you ever faced like ten shulkers at once, it can be chaos very fast.
+- Paleo-shulkers are found in Mesozoic marshes and Cretaceous dunes. They act just like their modern counterparts, but spawn within biomes rather than being generated in a structure. They still spawn rarely, or else, if you ever faced like ten shulkers at once, it can be chaos very fast.
 - Placing skeleton dinosaur skulls instead of wither skeleton skulls on the T-shaped structure of soul sand or soul soil to summon the wither will summon the paleo-wither instead.
 - Pitcher plants can be duplicated with bone meal in the mirror overworld.
-- Cycads are the only tree native to both the classic overworld and the mirror overworld. In the classic overworld, cycads are found within jungles and savannas.
+- Cycads are the only tree with a wood type native to both the classic overworld and the mirror overworld. In the classic overworld, cycads are found within jungles and savannas. Ginkgo trees are also native to both overworlds. Ginkgo trees are found rarely in plains and villages.
 - Sniffers now dig up more ancient plants.
-- Since wolves and cats can't be brought to the mirror overworld, players can tame the chomper instead. Scares both skeleton dinosaurs, paleo-creepers, and paleo-phantoms, and attacks whatever its owner hits. Won't attack crestfolks, saurian golems, ghasts, or zombie crestfolks. They instantly one-shot creepers and paleo-creepers. You tame the chomper by feeding it native flowers from the mirror overworld or any type of meat. Chompers can also be ridden since most mounts can't be brought to the mirror overworld either. Sleeping next to a chomper can give the player gifts like cats.
+- Since wolves and cats can't be brought to the mirror overworld, players can tame the chomper instead. Scares both skeleton dinosaurs, paleo-creepers, and paleo-phantoms, and attacks whatever its owner hits. Won't attack crestfolks, saurian golems, ghasts, or zombie crestfolks. They instantly one-shot creepers and paleo-creepers. You tame the chomper by feeding it native flowers from the mirror overworld or any type of meat. Chompers can also be ridden since most mounts can't be brought to the mirror overworld either. Sleeping next to a chomper can give the player gifts like cats. Since donkeys and llamas are unavailable in the mirror overworld, chompers can also be equipped with a chest.
 - Ginkgo extract can give the player haste and night vision within the correct dose, like one per every in-game day, but exceeding that dose can cause nausea, blindness, weakness, and wither while removing the haste and night vision from before.
+- At night, stampedes can randomly happen, but they're rare. Stampedes are made of stegosaurs, triceratops, iguanodons, parasaurolophuses, corythosaurs, lambeosaurs, edmontosauruses, pachycephalosaurs, kentrosaurs, dryosaurs, and tramplers.
+- If brought to the classic overworld, chompers don't become useless, but they still lose the supercharge they get in the mirror overworld. They lose their ability to dash like camels, are much slower, and don't gift amber to their sleeping owners.
+- Since sheep are unavailable and paleo-phantoms respond to insomnia as well, if the player doesn't have a bed from the overworld, another option is to make a Mesozoic bed from bristlebacks instead of wool.
+- Amber can also be a rare drop from creepers.
+- Spitters are pacific mobs that only attack when threatened. They also spit at Raptor Raiders.
+- Pluckers will harvest crops and store plucker cud after harvest. Plucker cud can be smelted into amber or used as a brewing ingredient to get the dino-might effect. Anything with dino-might will have nearby wild dinosaurs to defend them from hostile mobs.
+- Tramplers are pacific mobs that can still deal damage if anything is too close to them. When provoked, tramplers can charge at whatever has attacked them, notably Raptor Raiders. They're also part of stampedes.
+- Watchers will leave markers at any point of interest, like structures. Watchers also display warning signs when a stampede is incoming.
+- Fellers cut down trees and store what is collected in a pouch that the player can interact with to get them.
 
 Advancements: 
 - Remember Who You Are (Bring a chicken to the mirror overworld)
