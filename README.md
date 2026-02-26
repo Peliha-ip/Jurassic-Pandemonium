@@ -33,6 +33,8 @@ Mobs:
 - Monolophosaurus
 - Dilophosaurus
 - Archaeopteryx
+- Fungiceratops
+- Chomper
 - Zombie dinosaur
 - Skeleton dinosaur
 - Paleo-warden
@@ -46,10 +48,32 @@ Mobs:
 - Paleo-squid
 - Paleo-glow squid
 - Paleo-wither
+- Paleo-tadpole
 - Paleo-frog
 - Paleo-allay
+- Lepidotes
+- Xiphactinus
+- Clawborn
+- Bonekin
+- Saurfolk
+- Dinosul
+- Therak
+- Velokhan
+- Crestfolk
+- Zombie crestfolk
+- Saurian golem
 
 Items:
+- Amber
+- Cycad boat
+- Cycad boat with chest
+- Araucarioxylon boat
+- Araucarioxylon boat with chest
+- Amber horn
+- T. rex tooth
+- Chomper armor
+- Bucket of Lepidotes
+- Bucket of Xiphactinus
 - Stegosaurus spawn egg
 - T. rex spawn egg
 - Triceratops spawn egg
@@ -60,22 +84,7 @@ Items:
 - Utahraptor spawn egg
 - Troodon spawn egg
 - Ankylosaurus spawn egg
-- Zombie dinosaur spawn egg
-- Skeleton dinosaur spawn egg
-- Paleo-warden spawn egg
-- Paleo-creeper spawn egg
-- Paleo-enderman spawn egg
-- Paleo-shulker spawn egg
-- Paleo-breeze spawn egg
-- Paleo-slime spawn egg
-- Paleo-phantom spawn egg
-- Paleo-creaking spawn egg
-- Paleo-squid spawn egg
-- Paleo-glow squid spawn egg
-- Paleo-wither spawn egg
-- Paleo-frog spawn egg
-- Paleo-allay spawn egg
-- Spinosaurus soawn egg
+-  Spinosaurus spawn egg
 - Brachiosaurus spawn egg
 - Brontosaurus spawn egg
 - Allosaurus spawn egg
@@ -96,8 +105,110 @@ Items:
 - Monolophosaurus spawn egg
 - Dilophosaurus spawn egg
 - Archaeopteryx spawn egg
+- Spinosaurus spawn egg
+- Brachiosaurus spawn egg
+- Brontosaurus spawn egg
+- Allosaurus spawn egg
+- Megalosaurus spawn egg
+- Ceratosaurus spawn egg
+- Iguanodon spawn egg
+- Parasaurolophus spawn egg
+- Corythosaurus spawn egg
+- Lambeosaurus spawn egg
+- Edmontosaurus spawn egg
+- Euoplocephalus spawn egg
+- Pachycephalosaurus spawn egg
+- Kentrosaurus spawn egg
+- Dryosaurus spawn egg
+- Therizinosaurus spawn egg
+- Baryonyx spawn egg
+- Plateosaurus spawn egg
+- Monolophosaurus spawn egg
+- Dilophosaurus spawn egg
+- Archaeopteryx spawn egg
+- Fungiceratops spawn egg
+- Chomper spawn egg
+- Zombie dinosaur spawn egg
+- Skeleton dinosaur spawn egg
+- Paleo-warden spawn egg
+- Paleo-creeper spawn egg
+- Paleo-enderman spawn egg
+- Paleo-shulker spawn egg
+- Paleo-breeze spawn egg
+- Paleo-slime spawn egg
+- Paleo-phantom spawn egg
+- Paleo-creaking spawn egg
+- Paleo-squid spawn egg
+- Paleo-glow squid spawn egg
+- Paleo-wither spawn egg
+- Paleo-tadpole spawn egg
+- Paleo-frog spawn egg
+- Paleo-allay spawn egg
+- Lepidotes spawn egg
+- Xiphactinus spawn egg
+- Clawborn spawn egg
+- Bonekin spawn egg
+- Saurfolk spawn egg
+- Dinosul spawn egg
+- Therak spawn egg
+- Velokhan spawn egg
+- Crestfolk spawn egg
+- Zombie crestfolk spawn egg
+- Saurian golem spawn egg
 
  Blocks:
+ - Cycad log
+ - Cycad planks
+ - Cycad wood
+ - Cycad door
+ - Cycad trapdoor
+ - Cycad button
+ - Cycad fence
+ - Cycad fence gate
+ - Cycad pressure plate
+ - Cycad slab
+ - Cycad stairs
+ - Cycad fronds
+ - Cycad shelf
+ - Cycad sign
+ - Stripped Cycad log
+ - Stripped Cycad wood
+ - Hanging Cycad sign
+ - Cycad sapling
+ - Araucarioxylon log
+ - Araucarioxylon planks
+ - Araucarioxylon wood
+ - Araucarioxylon door
+ - Araucarioxylon trapdoor
+ - Araucarioxylon button
+ - Araucarioxylon fence
+ - Araucarioxylon fence gate
+ - Araucarioxylon pressure plate
+ - Araucarioxylon slab
+ - Araucarioxylon stairs
+ - Araucarioxylon leaves
+ - Araucarioxylon shelf
+ - Araucarioxylon sign
+ - Stripped Araucarioxylon log
+ - Stripped Araucarioxylon wood
+ - Hanging Araucarioxylon sign
+ - Araucarioxylon sapling
+ - Fern block
+ - Fern stem
+ - Magnolia
+ - Gnetum
+ - Clubmoss
+ - Horsetail
+ - Archaefructus
+ - Sphenophyllum
+ - Caytonia
+ - Williamsonia
+ - Ginkgo leaves
+ - Ginkgo stem
+ - Ginkgo sapling
+ - Cerulean vine
+ - Amber block
+ - Paleo-creaking heart
  - Stegosaurus egg
  - T. rex egg
  - Triceratops egg
@@ -129,17 +240,83 @@ Items:
  - Monolophosaurus egg
  - Dilophosaurus egg
  - Archaeopteryx egg
+ - Fungiceratops egg
+ - Chomper egg
  - Paleo-frogspawn
 
 Dimension:
 - Mirror overworld
 
+Food:
+- Raw Lepidotes
+- Raw Xiphactinus
+- Cooked Lepidotes
+- Cooked Ciphactinus
+- Amber apple
+- Ginkgo extract
+
+Structures:
+- Tree fern
+- Ginkgo trees
+- Raptor Raider outpost
+- Raptor Raider mansion
+- Saurian village
+
+Biomes:
+- Cycad forest
+- Paleo-mushroom fields
+- Araucarioxylon forest
+- Ginkgo grove
+- Paleo-flower forest
+- Cretaceous dunes
+- Volcanic badlands
+- Fern meadow
+- Mesozoic marsh
+- Cretaceous tundra
+- Paleo-pale garden
+
+Enchantment:
+- Prehistoric Resilience
+
 Features:
-- If in the mirror overworld for too long, armadillos, bats, camels, cats, cows, donkeys, frogs, horses, mooshrooms, mules, ocelots, turtles, parrots, pigs, rabbits, sheep, striders, tadpoles, villagers, wandering traders, cods, salmons, tropical fish, pufferfish, dolphins, foxes, goats, llamas, pandas, piglins immune to zombification, polar bears, piglin brutes immune to zombification, hoglins immune to zombification, trader llamas, wolves, evokers, pillagers, ravagers, vindicators, and witches will end up dying because they're incompatible and will quickly die from diseases, predations, or incompatible conditions. These mobs will also run away from mirror overworld portals.
+- Mirror overworld portals can be made just like a Nether portal, but packed mud replaces the obsidian, and water replaces the fire, making disabled mirror overworld portal blocks all over the frame. Throwing a fire charge into the portal will cause the mirror overworld portal to be enabled.
+- If in the mirror overworld for too long, axolotls, armadillos, bats, camels, cats, cows, donkeys, frogs, horses, mooshrooms, mules, ocelots, turtles, parrots, pigs, rabbits, sheep, striders, tadpoles, villagers, wandering traders, cods, salmons, tropical fish, pufferfish, dolphins, foxes, goats, llamas, pandas, piglins immune to zombification, polar bears, piglin brutes immune to zombification, hoglins immune to zombification, trader llamas, wolves, evokers, pillagers, ravagers, vindicators, and witches will end up dying because they're incompatible and will quickly die from diseases, predations, or incompatible conditions. These mobs will also run away from mirror overworld portals.
+- Trees from the classic overworld won't grow in the mirror overworld either. Same for azaleas, bamboo, beetroots, carrots, potatoes, wheat, bushes, sweet berry bushes, firefly bushes, pink petals, wildflowers, sunflowers, rose bushes, peonies, lilacs, cacti, cocoa beans, melons, pumpkins, and sugar canes.
+- Players will also die if in the mirror overworld for too long, unless if their chestplate is enchanted with Prehistoric Resilience. Prehistoric Resilience can be occasionally bartered from piglins.
 - Dinosaur eggs can be found in warm ancient ruins.
+- These vanilla mobs can still spawn in the mirror overworld: sniffer, bee, nautilus, and zombie nautilus. Zombie nautilus jockeys from the mirror overworld are ridden by zombie dinosaurs instead of the drowneds from the classic overworld.
+- Instead of zombies, skeletons, creepers, spiders, husks, strays, boggeds, parcheds, drowneds, and endermen populating the mirror overworld at night, clawborns, bonekins, saurfolks, dinosuls, theraks, velokhans, zombie and skeleton dinosaurs, zombie crestfolk, paleo-creepers, and paleo-endermen populate the mirror overworld at night. Unlike most undead mobs in the classic overworld, undead mobs native to the mirror overworld won't burn during the day, giving more room to cure zombie crestfolks but making undead mobs still loaded to attack well during the day.
+- Troodons might pick up objects dropped on the ground, especially shiny, unusual items, or both.
+- Crestfolks are practically the villagers of the mirror overworld. However, unlike villages and villagers, crestfolks populating the saurian villages aren't defenseless. These villages can only be entered through a bridge that closes at night, since stone walls and lava moats surround them. Trying to enter a saurian village at night is not a good idea since guards will attack anything on sight near the bridge. The guards also deal a lot of damage since they have to deal with almost everything. Guard crestfolks have both ranged and melee weapons; not even a wither or a warden is safe from the guards. The only mobs a guard won't attack at night are other crestfolks, saurian golems, and zombie crestfolks. For zombie crestfolks, guards will usually capture them and send them to the infirmary when the sun rises.
+- Amber is the main resource used in saurian villages. Because just like villagers use emeralds as currency, crestfolks use amber as currency. Amber can be dropped from paleo-creepers or Raptor Raiders, gifted from chompers, traded from crestfolks, or extracted from Araucarioxylon trees. Chompers can also equip chomper armor, which is, of course, made of amber.
+- Placing an amber block, a bone block, a cycad, and Araucarioxylon planks in a square shape with a pumpkin on top will summon a saurian golem, the saurian version of the iron golem, even more powerful, especially during wartime.
+- Thinking of mistreating crestfolks as you do with villagers, I have bad news: crestfolks are easily subdoable. Attack one crestfolk, and the entire village will attack you and kill you in seconds. Thinking of kidnapping crestfolks with boats or minecarts, guess what, guards will also attack them. The only way to get a crestfolk to your base is if you cure a zombie crestfolk, and even a cured crestfolk doesn't mess around. Hit it, and you get one shot. They can also break blocks if they feel trapped, but a house should be enough for a cured crestfolk. You can also have a cured crestfolk to be your bodyguard if you treat them correctly.
+- Crestfolks and Raptor Raiders are at war; however, crestfolks will usually win since the guards are already super lethal. The only way Raptor Raiders stand a chance against saurian villages is if they appear in a giant siege, and even then, crestfolks usually win.
+- To cure a zombie crestfolk, it's the same as with zombie villages, but instead of using a golden apple, an amber apple is used.
+- Amber horns are used to deter dinosaurs from whoever used the amber horn. They're usually used by crestfolks to deter dinosaurs from trampling on saurian villages.
+- The only vanilla biomes present in the mirror overworld are plains, snowy plains, ice spikes, beaches, snowy beaches, stony shores, badlands, eroded badlands, swamps, deserts, all oceans, jagged peaks, frozen peaks, snowy slopes, windswept hills, windswept gravelly hills, rivers, frozen rivers, lush caves, dripstone caves, and the deep dark, not unchanged though. Any other biome will be replaced with a mirror biome.
+- In the deep dark of the mirror overworld, sculk shriekers will summon paleo-wardens instead of wardens.
+- Paleo-pale gardens are vast plains instead of woodlands like in the classic overworld. Paleo-creaking hearts blend into the ground instead of a pale oak tree.
+- Insomnia in the mirror overworld will spawn paleo-phantoms instead of phantoms.
+- Paleo-allays are found within Raptor Raiders outposts and mansions. They can be duplicated with amber instead of amethyst.
+- Paleo-shulkers are found in Mesozoic marshes and Cretaceous dunes. They act just like their modern counterpart, but spawn within the biomes instead of being generated in a structure. They still spawn rarely, or else, if you ever faced like ten shulkers at once, it can be chaos very fast.
+- Placing skeleton dinosaur skulls instead of wither skeleton skulls on the T-shaped structure of soul sand or soul soil to summon the wither will summon the paleo-wither instead.
+- Pitcher plants can be duplicated with bone meal in the mirror overworld.
+- Cycads are the only tree native to both the classic overworld and the mirror overworld. In the classic overworld, cycads are found within jungles and savannas.
+- Sniffers now dig up more ancient plants.
+- Since wolves and cats can't be brought to the mirror overworld, players can tame the chomper instead. Scares both skeleton dinosaurs, paleo-creepers, and paleo-phantoms, and attacks whatever its owner hits. Won't attack crestfolks, saurian golems, ghasts, or zombie crestfolks. They instantly one-shot creepers and paleo-creepers. You tame the chomper by feeding it native flowers from the mirror overworld or any type of meat. Chompers can also be ridden since most mounts can't be brought to the mirror overworld either. Sleeping next to a chomper can give the player gifts like cats.
+- Ginkgo extract can give the player haste and night vision within the correct dose, like one per every in-game day, but exceeding that dose can cause nausea, blindness, weakness, and wither while removing the haste and night vision from before.
 
 Advancements: 
 - Remember Who You Are (Bring a chicken to the mirror overworld)
 - Jurassic Marsh (Enter the mirror overworld)
 - Jurassic Park (Have all dinosaurs in the normal overworld)
 - Primordial Pal (Bring a paleo-allay to the normal overworld)
+- Dino Trade (Trade with crestfolks)
+- Good Vs Evil (Kill any member of the Raptor Raiders while defending a saurian village)
+- Doctor Dino (Cure a zombie crestfolk)
+- It Is On Amber Island (Summon a saurian golem)
+- Not Today, Dino (Use an amber horn to deter dinosaurs)
+- Mind Over Matter (Consume ginkgo extract within the safe dose)
+- Time to go to Rehab (Overdose on ginkgo extract)
+- Maw of Friendship (Tame a chomper)
