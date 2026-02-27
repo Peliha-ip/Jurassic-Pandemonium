@@ -80,6 +80,10 @@ Items:
 - T. rex tooth
 - Chomper armor
 - Plucker cud
+- Sunpod extract
+- Bitterpod powder
+- Sunspire powder
+- Resinroot dust
 - Bucket of Lepidotes
 - Bucket of Xiphactinus
 - Stegosaurus spawn egg
@@ -230,9 +234,11 @@ Items:
  - Glowbulb shrub
  - Sunpod bush
  - Amber block
+ - Amber rod
  - Paleo-creaking heart
  - Bristleback
  - Mesozoic bed
+ - Mirror brewing stand
  - Stegosaurus egg
  - T. rex egg
  - Triceratops egg
@@ -281,8 +287,12 @@ Dimension:
 Food:
 - Raw Lepidotes
 - Raw Xiphactinus
+- Raw medium meat slab
+- Raw large meat slab
 - Cooked Lepidotes
 - Cooked Ciphactinus
+- Cooked medium meat slab
+- Cooked large meat slab
 - Amber apple
 - Ginkgo extract
 - Sunpod
@@ -295,6 +305,7 @@ Food:
 - Amber sunspire
 - Amber glowbulb
 - Enchanted golden glowbulb
+- Glowbulb juice
 
 Structures:
 - Tree fern
@@ -319,8 +330,14 @@ Biomes:
 Enchantment:
 - Prehistoric Resilience
 
-Effect:
+Effects:
 - Dino-might
+- Herdcalm
+- Sunpulse
+- Prehistoric comfort
+- Dino-heart
+- Resin skin
+- Herdcall
 
 Features:
 - Mirror overworld portals can be made just like a Nether portal, but packed mud replaces the obsidian, and water replaces the fire, making disabled mirror overworld portal blocks all over the frame. Throwing a fire charge into the portal will cause the mirror overworld portal to be enabled.
@@ -350,7 +367,7 @@ Features:
 - Sniffers now dig up more ancient plants.
 - Since wolves and cats can't be brought to the mirror overworld, players can tame the chomper instead. Scares both skeleton dinosaurs, paleo-creepers, and paleo-phantoms, and attacks whatever its owner hits. Won't attack crestfolks, saurian golems, ghasts, or zombie crestfolks. They instantly one-shot creepers and paleo-creepers. You tame the chomper by feeding it native flowers from the mirror overworld or any type of meat. Chompers can also be ridden since most mounts can't be brought to the mirror overworld either. Sleeping next to a chomper can give the player gifts like cats. Since donkeys and llamas are unavailable in the mirror overworld, chompers can also be equipped with a chest.
 - Ginkgo extract can give the player haste and night vision within the correct dose, like one per every in-game day, but exceeding that dose can cause nausea, blindness, weakness, and wither while removing the haste and night vision from before.
-- At night, stampedes can randomly happen, but they're rare. Stampedes are made of stegosaurs, triceratops, iguanodons, parasaurolophuses, corythosaurs, lambeosaurs, edmontosauruses, pachycephalosaurs, kentrosaurs, dryosaurs, torosaurus, and tramplers.
+- At night, stampedes can randomly happen, but they're rare. Stampedes are made of stegosaurs, triceratops, iguanodons, parasaurolophuses, corythosaurs, lambeosaurs, edmontosauruses, pachycephalosaurs, kentrosaurs, dryosaurs, torosaurus, spitters, and tramplers.
 - If brought to the classic overworld, chompers don't become useless, but they still lose the supercharge they get in the mirror overworld. They lose their ability to dash like camels, are much slower, and don't gift amber to their sleeping owners.
 - Since sheep are unavailable and paleo-phantoms respond to insomnia as well, if the player doesn't have a bed from the overworld, another option is to make a Mesozoic bed from bristlebacks instead of wool.
 - Amber can also be a rare drop from creepers.
@@ -359,6 +376,13 @@ Features:
 - Tramplers are pacific mobs that can still deal damage if anything is too close to them. When provoked, tramplers can charge at whatever has attacked them, notably Raptor Raiders. They're also part of stampedes.
 - Watchers will leave markers at any point of interest, like structures. Watchers also display warning signs when a stampede is incoming.
 - Fellers cut down trees and store what is collected in a pouch that the player can interact with to get them.
+- Since crestfolks don't use classic brewing stands because nether portals don't work in the mirror overworld, they use mirror brewing stands instead, same as classic brewing stand but an amber rod replace the blaze rod. Glowbulb juice replaces blaze powder, bitterpod powder replaces nether warts, sunpod extract replaces redstone, sunspire replaces gunpowder, and resinroot dust replaces dragon's breath.
+- Resinroot dust can be used to brew resin skin potions. Resin skin reduces damage to the player while canceling all fall damage, a low-cost resistance potion that comes with fall damage immunity. Dripstone also can't deal damage to anything with the resin skin effect.
+- Glowbulbs can be used to brew herdcall potions. Herdcall attracts sauropods to whatever have the herdcall effect.
+- Sunspire powder can be used to brew sunpulse potions. Sunpulse increase the speed and strength of whatever has the sunpulse effect, but it only works during the day.
+- Bones can be used to brew dino-heart potions. Dino-heart turns whatever has the dino-heart effect to act like a walking bone meal. Just be careful to not walk near saplings with this effect.
+- Bitterpod powder can be used to brew herdcalm potions. Herdcalm will turn off stampedes to a 50 block radius of whoever has the herdcalm effect.
+- Amber can be used to brew prehistoric comfort. Prehistoric comfort gives more breathing room to any incompatible mobs to leave the mirror overworld. Imagine water breathing, but instead of using it underwater, it's used for any incompatible mobs to be safe in the mirror overworld until the effect wears out. Splash potions of prehistoric comfort can also be bartered by piglins.
 
 Advancements: 
 - Remember Who You Are (Bring a chicken to the mirror overworld)
@@ -373,3 +397,10 @@ Advancements:
 - Mind Over Matter (Consume ginkgo extract within the safe dose)
 - Time to go to Rehab (Overdose on ginkgo extract)
 - Maw of Friendship (Tame a chomper)
+- Un-Supercharged (Bring a chomper to the classic overworld)
+- Supercharged (Bring a chomper back to the mirror overworld)
+- I'm Yelling Timber (Collect wood from the pouch of a feller)
+- Stop Ruminating (Collect plucker cud from the pouch of a plucker)
+- Quick, Stampede (Dodge a stampede)
+- Dino Gang (Have dinosaurs be temporary allies with the dino-might potion effect)
+- Colossalliance (Gather 10 sauropods with the herdcall potion effect)
