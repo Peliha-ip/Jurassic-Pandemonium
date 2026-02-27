@@ -395,6 +395,12 @@ Features:
 - Amber can be used to brew prehistoric comfort. Prehistoric comfort gives more breathing room to any incompatible mobs to leave the mirror overworld. Imagine water breathing, but instead of using it underwater, it's used for any incompatible mobs to be safe in the mirror overworld until the effect wears off. Splash potions of prehistoric comfort can also be bartered by piglins.
 - Moonpulps can be used to brew moonpulse potions. Moonpulse increases the strength, haste, speed, and saturation while also giving night vision to whatever has the moonpulse effect, but only works at night.
 - Saurfolks can summon paleo-vexes to fight with the rest of the Raptor Raiders.
+- Renaming a stegosaurus "Stogg" will change its texture to match the character from My Singing Monsters.
+- Renaming a T. rex "Rex", "T-Rox", "Chopper", or "Dino-Rang" will change its texture to match either character.
+- Renaming an ankylosaurus "Bash" or "Slobber Tooth" will cause its texture to match either Skylander.
+- Renaming a Triceratops "Tri-Tip" will cause its texture to match the Earth Sensei from Skylanders Imaginators.
+- Renaming a brontosaurus "Arlo" will change its texture to match the character from The Good Dinosaur.
+- Renaming a brachiosaurus "Braloha" will change its texture to match the grass/ground pal from Palworld.
 
 Advancements: 
 - Remember Who You Are (Bring a chicken to the mirror overworld)
@@ -416,3 +422,4 @@ Advancements:
 - Quick, Stampede (Dodge a stampede)
 - Dino Gang (Have dinosaurs be temporary allies with the dino-might potion effect)
 - Colossalliance (Gather 10 sauropods with the herdcall potion effect)
+- Face the Mace! (Rename a Triceratops "Tri-Tip")
