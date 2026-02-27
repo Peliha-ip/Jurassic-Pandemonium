@@ -58,6 +58,7 @@ Mobs:
 - Paleo-tadpole
 - Paleo-frog
 - Paleo-allay
+- Paleo-vex
 - Lepidotes
 - Xiphactinus
 - Clawborn
@@ -163,6 +164,7 @@ Items:
 - Paleo-tadpole spawn egg
 - Paleo-frog spawn egg
 - Paleo-allay spawn egg
+- Paleo-vex spawn egg
 - Lepidotes spawn egg
 - Xiphactinus spawn egg
 - Clawborn spawn egg
@@ -233,6 +235,7 @@ Items:
  - Bitterpod fern
  - Glowbulb shrub
  - Sunpod bush
+ - Moonpulp shrub
  - Amber block
  - Amber rod
  - Paleo-creaking heart
@@ -287,12 +290,16 @@ Dimension:
 Food:
 - Raw Lepidotes
 - Raw Xiphactinus
+- Raw small meat slab
 - Raw medium meat slab
 - Raw large meat slab
+- Raw giant meat slab
 - Cooked Lepidotes
-- Cooked Ciphactinus
+- Cooked Xiphactinus
+- Cooked small meat slab
 - Cooked medium meat slab
 - Cooked large meat slab
+- Cooked giant meat slab
 - Amber apple
 - Ginkgo extract
 - Sunpod
@@ -306,6 +313,8 @@ Food:
 - Amber glowbulb
 - Enchanted golden glowbulb
 - Glowbulb juice
+- Moonpulp
+- Moonpulp juice
 
 Structures:
 - Tree fern
@@ -338,6 +347,7 @@ Effects:
 - Dino-heart
 - Resin skin
 - Herdcall
+- Moonpulse
 
 Features:
 - Mirror overworld portals can be made just like a Nether portal, but packed mud replaces the obsidian, and water replaces the fire, making disabled mirror overworld portal blocks all over the frame. Throwing a fire charge into the portal will cause the mirror overworld portal to be enabled.
@@ -376,13 +386,15 @@ Features:
 - Tramplers are pacific mobs that can still deal damage if anything is too close to them. When provoked, tramplers can charge at whatever has attacked them, notably Raptor Raiders. They're also part of stampedes.
 - Watchers will leave markers at any point of interest, like structures. Watchers also display warning signs when a stampede is incoming.
 - Fellers cut down trees and store what is collected in a pouch that the player can interact with to get them.
-- Since crestfolks don't use classic brewing stands because nether portals don't work in the mirror overworld, they use mirror brewing stands instead, same as classic brewing stand but an amber rod replace the blaze rod. Glowbulb juice replaces blaze powder, bitterpod powder replaces nether warts, sunpod extract replaces redstone, sunspire replaces gunpowder, and resinroot dust replaces dragon's breath.
+- Since crestfolks don't use classic brewing stands because nether portals don't work in the mirror overworld, they use mirror brewing stands instead, same as classic brewing stand, but an amber rod replaces the blaze rod. Glowbulb juice replaces blaze powder, bitterpod powder replaces nether warts, sunpod extract replaces redstone, sunspire replaces gunpowder, and resinroot dust replaces dragon's breath.
 - Resinroot dust can be used to brew resin skin potions. Resin skin reduces damage to the player while canceling all fall damage, a low-cost resistance potion that comes with fall damage immunity. Dripstone also can't deal damage to anything with the resin skin effect.
-- Glowbulbs can be used to brew herdcall potions. Herdcall attracts sauropods to whatever have the herdcall effect.
-- Sunspire powder can be used to brew sunpulse potions. Sunpulse increase the speed and strength of whatever has the sunpulse effect, but it only works during the day.
-- Bones can be used to brew dino-heart potions. Dino-heart turns whatever has the dino-heart effect to act like a walking bone meal. Just be careful to not walk near saplings with this effect.
+- Glowbulbs can be used to brew herdcall potions. Herdcall attracts sauropods to whatever has the herdcall effect.
+- Sunspire powder can be used to brew sunpulse potions. Sunpulse increases the speed and strength of whatever has the sunpulse effect, but it only works during the day.
+- Bones can be used to brew dino-heart potions. Dino-heart turns whatever has the dino-heart effect into a walking bone meal. Just be careful not to walk near saplings with this effect.
 - Bitterpod powder can be used to brew herdcalm potions. Herdcalm will turn off stampedes to a 50 block radius of whoever has the herdcalm effect.
-- Amber can be used to brew prehistoric comfort. Prehistoric comfort gives more breathing room to any incompatible mobs to leave the mirror overworld. Imagine water breathing, but instead of using it underwater, it's used for any incompatible mobs to be safe in the mirror overworld until the effect wears out. Splash potions of prehistoric comfort can also be bartered by piglins.
+- Amber can be used to brew prehistoric comfort. Prehistoric comfort gives more breathing room to any incompatible mobs to leave the mirror overworld. Imagine water breathing, but instead of using it underwater, it's used for any incompatible mobs to be safe in the mirror overworld until the effect wears off. Splash potions of prehistoric comfort can also be bartered by piglins.
+- Moonpulps can be used to brew moonpulse potions. Moonpulse increases the strength, haste, speed, and saturation while also giving night vision to whatever has the moonpulse effect, but only works at night.
+- Saurfolks can summon paleo-vexes to fight with the rest of the Raptor Raiders.
 
 Advancements: 
 - Remember Who You Are (Bring a chicken to the mirror overworld)
