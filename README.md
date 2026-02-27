@@ -405,6 +405,7 @@ Features:
 - Ankylosaurus can greatly push tramplers towards the player while also giving the player significant knockback. When the player or a tamed mob has the dino-might effect, ankylosaurus scoops away hostile mobs.
 - T. rexes can cause tramplers to sprint. When the player or a tamed mob has the dino-might effect, t. rexes eat nearby hostile mobs.
 - Stegosaurus can cause tramplers to be launched at any nearby random point. With the dino-might effect, stegosaurus can one shot hostile mobs.
+- The rest of the dinosaurs simply attack the attacker when the entity with the dino-might effect is attacked.
 - Players or tamed mobs can create stampedes of their own with the herdcall effect. Sauropods affected by herdcall become unstoppable bulldozers until the effect wears off. Mobs and structures in the way of these sauropods get trampled and get destroyed instantly.
 
 Advancements: 
