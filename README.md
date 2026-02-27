@@ -393,7 +393,7 @@ Features:
 - Bones can be used to brew dino-heart potions. Dino-heart turns whatever has the dino-heart effect into a walking bone meal. Just be careful not to walk near saplings with this effect.
 - Bitterpod powder can be used to brew herdcalm potions. Herdcalm will turn off stampedes to a 50 block radius of whoever has the herdcalm effect.
 - Amber can be used to brew prehistoric comfort. Prehistoric comfort gives more breathing room to any incompatible mobs to leave the mirror overworld. Imagine water breathing, but instead of using it underwater, it's used for any incompatible mobs to be safe in the mirror overworld until the effect wears off. Splash potions of prehistoric comfort can also be bartered by piglins.
-- Moonpulps can be used to brew moonpulse potions. Moonpulse increases the strength, haste, speed, and saturation while also giving night vision to whatever has the moonpulse effect, but only works at night.
+- Moonpulps can be used to brew moonpulse potions. Moonpulse increases haste and saturation while also giving night vision to whatever has the moonpulse effect, but only works at night.
 - Saurfolks can summon paleo-vexes to fight with the rest of the Raptor Raiders.
 - Renaming a stegosaurus "Stogg" will change its texture to match the character from My Singing Monsters.
 - Renaming a T. rex "Rex", "T-Rox", "Chopper", or "Dino-Rang" will change its texture to match either character.
