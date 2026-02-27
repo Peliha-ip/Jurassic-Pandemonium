@@ -85,6 +85,7 @@ Items:
 - Bitterpod powder
 - Sunspire powder
 - Resinroot dust
+- Rumble drum
 - Bucket of Lepidotes
 - Bucket of Xiphactinus
 - Stegosaurus spawn egg
@@ -407,6 +408,7 @@ Features:
 - Stegosaurus can cause tramplers to be launched at any nearby random point. With the dino-might effect, stegosaurus can one shot hostile mobs.
 - The rest of the dinosaurs simply attack the attacker when the entity with the dino-might effect is attacked.
 - Players or tamed mobs can create stampedes of their own with the herdcall effect. Sauropods affected by herdcall become unstoppable bulldozers until the effect wears off. Mobs and structures in the way of these sauropods get trampled and get destroyed instantly.
+- Not only that, but stampedes can also be triggered by rumble drums. Rumble drums also work in the classic overworld, except the classic overworld stampedes are made of cows, pigs, sheep, horses, donkeys, llamas, and goats.
 
 Advancements: 
 - Remember Who You Are (Bring a chicken to the mirror overworld)
@@ -429,3 +431,5 @@ Advancements:
 - Dino Gang (Have dinosaurs be temporary allies with the dino-might potion effect)
 - Colossalliance (Gather 10 sauropods with the herdcall potion effect)
 - Face the Mace! (Rename a Triceratops "Tri-Tip")
+- Be Prepared (Craft the rumble drum)
+- Long Live the King (Push a mob into a stampede, leading it to its death)
