@@ -401,7 +401,11 @@ Features:
 - Renaming a Triceratops "Tri-Tip" will cause its texture to match the Earth Sensei from Skylanders Imaginators.
 - Renaming a brontosaurus "Arlo" will change its texture to match the character from The Good Dinosaur.
 - Renaming a brachiosaurus "Braloha" will change its texture to match the grass/ground pal from Palworld.
-- Deinonychus can often kick tramplers towards the player. When the player or a tamed mob has the dino-might effect, deinonychus kick away hostile mobs from the player.
+- Deinonychus can often kick tramplers towards the player. When the player or a tamed mob has the dino-might effect, deinonychus kicks away hostile mobs from the player. Deinonychus can give a small boost by kicking the player forward.
+- Ankylosaurus can greatly push tramplers towards the player while also giving the player significant knockback. When the player or a tamed mob has the dino-might effect, ankylosaurus scoops away hostile mobs.
+- T. rexes can cause tramplers to sprint. When the player or a tamed mob has the dino-might effect, t. rexes eat nearby hostile mobs.
+- Stegosaurus can cause tramplers to be launched at any nearby random point. With the dino-might effect, stegosaurus can one shot hostile mobs.
+- Players or tamed mobs can create stampedes of their own with the herdcall effect. Sauropods affected by herdcall become unstoppable bulldozers until the effect wears off. Mobs and structures in the way of these sauropods get trampled and get destroyed instantly.
 
 Advancements: 
 - Remember Who You Are (Bring a chicken to the mirror overworld)
