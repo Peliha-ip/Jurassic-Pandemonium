@@ -401,6 +401,7 @@ Features:
 - Renaming a Triceratops "Tri-Tip" will cause its texture to match the Earth Sensei from Skylanders Imaginators.
 - Renaming a brontosaurus "Arlo" will change its texture to match the character from The Good Dinosaur.
 - Renaming a brachiosaurus "Braloha" will change its texture to match the grass/ground pal from Palworld.
+- Deinonychus can often kick tramplers towards the player. When the player or a tamed mob has the dino-might effect, deinonychus kick away hostile mobs from the player.
 
 Advancements: 
 - Remember Who You Are (Bring a chicken to the mirror overworld)
