@@ -34,6 +34,7 @@ Mobs:
 - Dilophosaurus
 - Archaeopteryx
 - Torosaurus
+- Apatosaurus
 - Fungiceratops
 - Chomper
 - Spitter
@@ -141,6 +142,7 @@ Items:
 - Dilophosaurus spawn egg
 - Archaeopteryx spawn egg
 - Torosaurus spawn egg
+- Apatosaurus spawn egg
 - Fungiceratops spawn egg
 - Chomper spawn egg
 - Spitter spawn egg
@@ -275,6 +277,7 @@ Items:
  - Dilophosaurus egg
  - Archaeopteryx egg
  - Torosaurus egg
+ - Apatosaurus egg
  - Fungiceratops egg
  - Chomper egg
  - Spitter egg
