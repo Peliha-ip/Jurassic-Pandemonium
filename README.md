@@ -71,6 +71,10 @@ Mobs:
 - Crestfolk
 - Zombie crestfolk
 - Saurian golem
+- Eomaia
+- Repenomamus
+- Didelphodon
+- Taeniolabis
 
 Items:
 - Amber
@@ -178,6 +182,10 @@ Items:
 - Crestfolk spawn egg
 - Zombie crestfolk spawn egg
 - Saurian golem spawn egg
+- Eomaia spawn egg
+- Repenomamus spawn egg
+- Didelphodon spawn egg
+- Taeniolabis spawn egg
 
  Blocks:
  - Cycad log
@@ -405,13 +413,14 @@ Features:
 - Renaming a Triceratops "Tri-Tip" will cause its texture to match the Earth Sensei from Skylanders Imaginators.
 - Renaming a brontosaurus "Arlo" will change its texture to match the character from The Good Dinosaur.
 - Renaming a brachiosaurus "Braloha" will change its texture to match the grass/ground pal from Palworld.
-- Deinonychus can often kick tramplers towards the player. When the player or a tamed mob has the dino-might effect, deinonychus kicks away hostile mobs from the player. Deinonychus can give a small boost by kicking the player forward.
+- Deinonychus can often kick tramplers towards the player. When the player or a tamed mob has the dino-might effect, Deinonychus kicks away hostile mobs from the player. Deinonychus can give a small boost by kicking the player forward.
 - Ankylosaurus can greatly push tramplers towards the player while also giving the player significant knockback. When the player or a tamed mob has the dino-might effect, ankylosaurus scoops away hostile mobs.
-- T. rexes can cause tramplers to sprint. When the player or a tamed mob has the dino-might effect, t. rexes eat nearby hostile mobs.
-- Stegosaurus can cause tramplers to be launched at any nearby random point. With the dino-might effect, stegosaurus can one shot hostile mobs.
+- T. rexes can cause tramplers to sprint. When the player or a tamed mob has the dino-might effect, t. Rexes eat nearby hostile mobs.
+- Stegosaurus can cause tramplers to be launched at any nearby random point. With the dino-might effect, Stegosaurus can one-shot hostile mobs.
 - The rest of the dinosaurs simply attack the attacker when the entity with the dino-might effect is attacked.
-- Players or tamed mobs can create stampedes of their own with the herdcall effect. Sauropods affected by herdcall become unstoppable bulldozers until the effect wears off. Mobs and structures in the way of these sauropods get trampled and get destroyed instantly.
+- Players or tamed mobs can create stampedes of their own with the herdcall effect. Sauropods affected by herdcall become unstoppable bulldozers until the effect wears off. Mobs and structures in the way of these sauropods get trampled and destroyed instantly.
 - Not only that, but stampedes can also be triggered by rumble drums. Rumble drums also work in the classic overworld, except the classic overworld stampedes are made of cows, pigs, sheep, horses, donkeys, llamas, camels, and goats.
+- Moonpulse and sunpulse can function together, but only during dusk and dawn.
 
 Advancements: 
 - Remember Who You Are (Bring a chicken to the mirror overworld)
@@ -436,3 +445,6 @@ Advancements:
 - Face the Mace! (Rename a Triceratops "Tri-Tip")
 - Be Prepared (Craft the rumble drum)
 - Long Live the King (Push a mob into a stampede, leading it to its death)
+- The Motion of the Potion (Get all mirror effects at once)
+- Life Finds a Way (Plant mirror crops in the classic overworld)
+- Future Ruler (Attach all four proto-mammals to a lead)
