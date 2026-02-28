@@ -411,7 +411,7 @@ Features:
 - Stegosaurus can cause tramplers to be launched at any nearby random point. With the dino-might effect, stegosaurus can one shot hostile mobs.
 - The rest of the dinosaurs simply attack the attacker when the entity with the dino-might effect is attacked.
 - Players or tamed mobs can create stampedes of their own with the herdcall effect. Sauropods affected by herdcall become unstoppable bulldozers until the effect wears off. Mobs and structures in the way of these sauropods get trampled and get destroyed instantly.
-- Not only that, but stampedes can also be triggered by rumble drums. Rumble drums also work in the classic overworld, except the classic overworld stampedes are made of cows, pigs, sheep, horses, donkeys, llamas, and goats.
+- Not only that, but stampedes can also be triggered by rumble drums. Rumble drums also work in the classic overworld, except the classic overworld stampedes are made of cows, pigs, sheep, horses, donkeys, llamas, camels, and goats.
 
 Advancements: 
 - Remember Who You Are (Bring a chicken to the mirror overworld)
