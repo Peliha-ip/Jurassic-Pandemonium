@@ -86,7 +86,6 @@ Items:
 - Bitterpod powder
 - Sunspire powder
 - Resinroot dust
-- Rumble drum
 - Bucket of Lepidotes
 - Bucket of Xiphactinus
 - Stegosaurus spawn egg
@@ -245,6 +244,7 @@ Items:
  - Bristleback
  - Mesozoic bed
  - Mirror brewing stand
+ - Rumble drum
  - Stegosaurus egg
  - T. rex egg
  - Triceratops egg
