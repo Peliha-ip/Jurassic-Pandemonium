@@ -92,6 +92,7 @@ Items:
 - Sunspire powder
 - Resinroot dust
 - Mesozoic harness
+- Proto-mammal DNA
 - Bucket of Lepidotes
 - Bucket of Xiphactinus
 - Stegosaurus spawn egg
@@ -259,6 +260,7 @@ Items:
  - Mesozoic carpet
  - Mirror brewing stand
  - Rumble drum
+ - Proto-mammal reviver
  - Stegosaurus egg
  - T. rex egg
  - Triceratops egg
@@ -434,7 +436,7 @@ Features:
 - Not only that, but stampedes can also be triggered by rumble drums. Rumble drums also work in the classic overworld, except the classic overworld stampedes are made of cows, pigs, sheep, horses, donkeys, llamas, camels, and goats.
 - Moonpulse and sunpulse can function together, but only during dusk and dawn.
 - Bristleback also dampens vibrations.
-- Mosquitoes are more likely to attack players that just been damaged, sprinted, are low on health, at dusk or dawn, just attacked a mob, have the fire resistance effect, or are low on hunger.
+- Mosquitoes are more likely to attack players who just been damaged, sprinted, are low on health, during dusk or dawn, just attacked a mob, have the fire resistance effect, or are low on hunger. Nuisance mosquitoes have a low chance of dropping proto-mammal DNA, and deadly mosquitoes have a high chance of dropping proto-mammal DNA.
 
 Advancements: 
 - Remember Who You Are (Bring a chicken to the mirror overworld)
