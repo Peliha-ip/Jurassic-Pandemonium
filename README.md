@@ -75,6 +75,7 @@ Mobs:
 - Repenomamus
 - Didelphodon
 - Taeniolabis
+- Mosquito (With 3 types, 70-80% = passive, 15-25% = nuisance, and 1-5% = deadly)
 
 Items:
 - Amber
@@ -90,6 +91,7 @@ Items:
 - Bitterpod powder
 - Sunspire powder
 - Resinroot dust
+- Mesozoic harness
 - Bucket of Lepidotes
 - Bucket of Xiphactinus
 - Stegosaurus spawn egg
@@ -186,6 +188,7 @@ Items:
 - Repenomamus spawn egg
 - Didelphodon spawn egg
 - Taeniolabis spawn egg
+- Mosquito spawn egg
 
  Blocks:
  - Cycad log
@@ -251,6 +254,9 @@ Items:
  - Paleo-creaking heart
  - Bristleback
  - Mesozoic bed
+ - Mesozoic banner
+ - Mesozoic painting
+ - Mesozoic carpet
  - Mirror brewing stand
  - Rumble drum
  - Stegosaurus egg
@@ -295,6 +301,7 @@ Items:
  - Weaver egg
  - Feller egg
  - Paleo-frogspawn
+ - Ambered mosquito
 
 Dimension:
 - Mirror overworld
@@ -404,7 +411,7 @@ Features:
 - Sunspire powder can be used to brew sunpulse potions. Sunpulse increases the speed and strength of whatever has the sunpulse effect, but it only works during the day.
 - Bones can be used to brew dino-heart potions. Dino-heart turns whatever has the dino-heart effect into a walking bone meal. Just be careful not to walk near saplings with this effect.
 - Bitterpod powder can be used to brew herdcalm potions. Herdcalm will turn off stampedes to a 50 block radius of whoever has the herdcalm effect.
-- Amber can be used to brew prehistoric comfort. Prehistoric comfort gives more breathing room to any incompatible mobs to leave the mirror overworld. Imagine water breathing, but instead of using it underwater, it's used for any incompatible mobs to be safe in the mirror overworld until the effect wears off. Splash potions of prehistoric comfort can also be bartered by piglins.
+- Amber can be used to brew prehistoric comfort. Prehistoric comfort gives more breathing room to any incompatible mobs to leave the mirror overworld. Imagine water breathing, but instead of using it underwater, it's used to keep any incompatible mobs safe in the mirror overworld until the effect wears off. Piglins can also barter splash potions of prehistoric comfort.
 - Moonpulps can be used to brew moonpulse potions. Moonpulse increases haste and saturation while also giving night vision to whatever has the moonpulse effect, but only works at night.
 - Saurfolks can summon paleo-vexes to fight with the rest of the Raptor Raiders.
 - Renaming a stegosaurus "Stogg" will change its texture to match the character from My Singing Monsters.
@@ -415,12 +422,19 @@ Features:
 - Renaming a brachiosaurus "Braloha" will change its texture to match the grass/ground pal from Palworld.
 - Deinonychus can often kick tramplers towards the player. When the player or a tamed mob has the dino-might effect, Deinonychus kicks away hostile mobs from the player. Deinonychus can give a small boost by kicking the player forward.
 - Ankylosaurus can greatly push tramplers towards the player while also giving the player significant knockback. When the player or a tamed mob has the dino-might effect, ankylosaurus scoops away hostile mobs.
-- T. rexes can cause tramplers to sprint. When the player or a tamed mob has the dino-might effect, t. Rexes eat nearby hostile mobs.
+- Large predatory theropods like t. rexes and carnotaurs can cause tramplers to sprint. When the player or a tamed mob has the dino-might effect, they can eat hostile mobs in one gulp.
 - Stegosaurus can cause tramplers to be launched at any nearby random point. With the dino-might effect, Stegosaurus can one-shot hostile mobs.
-- The rest of the dinosaurs simply attack the attacker when the entity with the dino-might effect is attacked.
+- Large sauropods can relocate tramplers to random areas. With the dino-might effect, sauropods grab hostile mobs and drop them to their death.
+- Spinosaurus does the same as the rest of the large theropods do, but they also allow tramplers to move more efficiently in water.
+- When the player or a tamed mob has the dino-might effect, troodons will confiscate items from hostile mobs.
+- Torosaurus can guide tramplers towards the player. When the player or a tamed mob has the dino-might, Torosaurus acts as a shield to them.
+- Hadrosaurs (parasaurolophus, lambeosaurus, edmontosaurus, and corythosaurus) boost trampling damage from tramplers with their sounds. When a player or a tamed mob has the dino-might effect, not only would they defend the player by attacking hostile mobs like any other dinosaur, but they would also boost their damage by 2.
+- Since sniffers don't attack, a player or a tamed mob with the dino-might effect would get its search cooldown cut by half.
 - Players or tamed mobs can create stampedes of their own with the herdcall effect. Sauropods affected by herdcall become unstoppable bulldozers until the effect wears off. Mobs and structures in the way of these sauropods get trampled and destroyed instantly.
 - Not only that, but stampedes can also be triggered by rumble drums. Rumble drums also work in the classic overworld, except the classic overworld stampedes are made of cows, pigs, sheep, horses, donkeys, llamas, camels, and goats.
 - Moonpulse and sunpulse can function together, but only during dusk and dawn.
+- Bristleback also dampens vibrations.
+- Mosquitoes are more likely to attack players that just been damaged, sprinted, are low on health, at dusk or dawn, just attacked a mob, or are low on hunger.
 
 Advancements: 
 - Remember Who You Are (Bring a chicken to the mirror overworld)
