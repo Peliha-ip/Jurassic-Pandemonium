@@ -434,7 +434,7 @@ Features:
 - Not only that, but stampedes can also be triggered by rumble drums. Rumble drums also work in the classic overworld, except the classic overworld stampedes are made of cows, pigs, sheep, horses, donkeys, llamas, camels, and goats.
 - Moonpulse and sunpulse can function together, but only during dusk and dawn.
 - Bristleback also dampens vibrations.
-- Mosquitoes are more likely to attack players that just been damaged, sprinted, are low on health, at dusk or dawn, just attacked a mob, or are low on hunger.
+- Mosquitoes are more likely to attack players that just been damaged, sprinted, are low on health, at dusk or dawn, just attacked a mob, have the fire resistance effect, or are low on hunger.
 
 Advancements: 
 - Remember Who You Are (Bring a chicken to the mirror overworld)
