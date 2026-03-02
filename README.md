@@ -430,8 +430,12 @@ Features:
 - Spinosaurus does the same as the rest of the large theropods do, but they also allow tramplers to move more efficiently in water.
 - When the player or a tamed mob has the dino-might effect, troodons will confiscate items from hostile mobs.
 - Torosaurus can guide tramplers towards the player. When the player or a tamed mob has the dino-might, Torosaurus acts as a shield to them.
-- Hadrosaurs (parasaurolophus, lambeosaurus, edmontosaurus, and corythosaurus) boost trampling damage from tramplers with their sounds. When a player or a tamed mob has the dino-might effect, not only would they defend the player by attacking hostile mobs like any other dinosaur, but they would also boost their damage by 2.
+- Hadrosaurs (parasaurolophus, lambeosaurus, edmontosaurus, and corythosaurus) boost trampling damage from tramplers with their sounds. When a player or a tamed mob has the dino-might effect, not only would they defend the player by attacking hostile mobs like any other dinosaur, but they would also multiply their damage by 2.
+- If a player or a tamed mob has the dino-might effect, fellers can use wooded attacks to fight off hostile mobs
 - Since sniffers don't attack, a player or a tamed mob with the dino-might effect would get its search cooldown cut by half.
+- Since pluckers don't attack, a player or a tamed mob with the dino-might effect would get its plucker cud production multiplied by 2.
+- Since watchers don't attack, a player or a tamed mob with the dino-might effect would make it dig up loot from structures similar to sniffer.
+- Since weavers don't attack, a player or a tamed mob with the dino-might effect would see its bristleback production multiplied by 2.
 - Players or tamed mobs can create stampedes of their own with the herdcall effect. Sauropods affected by herdcall become unstoppable bulldozers until the effect wears off. Mobs and structures in the way of these sauropods get trampled and destroyed instantly.
 - Not only that, but stampedes can also be triggered by rumble drums. Rumble drums also work in the classic overworld, except the classic overworld stampedes are made of cows, pigs, sheep, horses, donkeys, llamas, camels, and goats.
 - Moonpulse and sunpulse can function together, but only during dusk and dawn.
