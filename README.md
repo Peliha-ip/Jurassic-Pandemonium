@@ -469,3 +469,12 @@ Advancements:
 - The Motion of the Potion (Get all mirror effects at once)
 - Life Finds a Way (Plant mirror crops in the classic overworld)
 - Future Ruler (Attach all four proto-mammals to a lead)
+
+Tags:
+- Dinosaur: stegosaurus, t. rex, triceratops, carnotaurus, diplodocus, velociraptor, deinonychus, troodon, ankylosaurus, spinosaurus, brachiosaurus, brontosaurus, allosaurus, utahraptor, megalosaurus, ceratosaurus, iguanodon, parasaurolophus, corythosaurus, lambeosaurus, edmontosaurus, euoplocephalus, pachycephalosaurus, kentrosaurus, dryosaurus, therizinosaurus, baryonyx, plateosaurus, monolophosaurus, dilophosaurus, archaeopteryx,  torosaurus, apatosaurus, fungiceratops, sniffer, chomper, weaver, feller, plucker, spitter, watcher, trampler
+- Hadrosaur: parasaurolophus, corythosaurus, lambeosaurus, edmontosaurus
+- Large Theropod: t. rex, carnotaurus, spinosaurus, allosaurus, megalosaurus, ceratosaurus, baryonyx, monolophosaurus, dilophosaurus
+- Sauropod: diplodocus, brachiosaurus, brontosaurus, apatosaurus
+- Raptor Raider: dinosul, clawborn, bonekin, saurfolk, therak, velokhan
+- Paleo-mobs: paleo-warden, paleo-creeper, paleo-enderman, paleo-shulker, paleo-breeze, paleo-slime, paleo-phantom, paleo-creaking paleo-squid, paleo-glow squid, paleo-wither, paleo-tadpole, paleo-frog, paleo-allay, paleo-vex
+- Proto-mammal: eomaia, repenomamus, didelphodon, taeniolabis
