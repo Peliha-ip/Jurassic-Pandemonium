@@ -302,6 +302,7 @@ Items:
  - Watcher egg
  - Weaver egg
  - Feller egg
+ - Proto-mammal egg
  - Paleo-frogspawn
  - Ambered mosquito
 
