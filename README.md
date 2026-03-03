@@ -428,7 +428,7 @@ Features:
 - Large predatory theropods like t. rexes and carnotaurs can cause tramplers to sprint. When the player or a tamed mob has the dino-might effect, they can eat hostile mobs in one gulp.
 - Stegosaurus can cause tramplers to be launched at any nearby random point. With the dino-might effect, Stegosaurus can one-shot hostile mobs.
 - Large sauropods can relocate tramplers to random areas. With the dino-might effect, sauropods grab hostile mobs and drop them to their death.
-- Spinosaurus does the same as the rest of the large theropods do, but they also allow tramplers to move more efficiently in water.
+- Spinosaurus and baryonyx do the same as the rest of the large theropods do, but they also allow tramplers to move more efficiently in water.
 - When the player or a tamed mob has the dino-might effect, troodons will confiscate items from hostile mobs.
 - Torosaurus can guide tramplers towards the player. When the player or a tamed mob has the dino-might, Torosaurus acts as a shield to them.
 - Hadrosaurs (parasaurolophus, lambeosaurus, edmontosaurus, and corythosaurus) boost trampling damage from tramplers with their sounds. When a player or a tamed mob has the dino-might effect, not only would they defend the player by attacking hostile mobs like any other dinosaur, but they would also multiply their damage by 2.
@@ -442,6 +442,7 @@ Features:
 - Moonpulse and sunpulse can function together, but only during dusk and dawn.
 - Bristleback also dampens vibrations.
 - Mosquitoes are more likely to attack players who just been damaged, sprinted, are low on health, during dusk or dawn, just attacked a mob, have the fire resistance effect, or are low on hunger. Nuisance mosquitoes have a low chance of dropping proto-mammal DNA, and deadly mosquitoes have a high chance of dropping proto-mammal DNA.
+- Renaming a Deinonychus "Cynthia" or "Garchomp" will change its model to have a big Cynthia doll on its back, while also changing its texture to make it look like the pseudo-legendary and the champion from Sinnoh. Kicks from these Deinonychuses are slightly increased.
 
 Advancements: 
 - Remember Who You Are (Bring a chicken to the mirror overworld)
@@ -469,6 +470,7 @@ Advancements:
 - The Motion of the Potion (Get all mirror effects at once)
 - Life Finds a Way (Plant mirror crops in the classic overworld)
 - Future Ruler (Attach all four proto-mammals to a lead)
+- Hisuian Champion? (Rename a Deinonychus "Cynthia" or "Garchomp")
 
 Tags:
 - Dinosaur: stegosaurus, t. rex, triceratops, carnotaurus, diplodocus, velociraptor, deinonychus, troodon, ankylosaurus, spinosaurus, brachiosaurus, brontosaurus, allosaurus, utahraptor, megalosaurus, ceratosaurus, iguanodon, parasaurolophus, corythosaurus, lambeosaurus, edmontosaurus, euoplocephalus, pachycephalosaurus, kentrosaurus, dryosaurus, therizinosaurus, baryonyx, plateosaurus, monolophosaurus, dilophosaurus, archaeopteryx,  torosaurus, apatosaurus, fungiceratops, sniffer, chomper, weaver, feller, plucker, spitter, watcher, trampler
@@ -476,5 +478,5 @@ Tags:
 - Large Theropod: t. rex, carnotaurus, spinosaurus, allosaurus, megalosaurus, ceratosaurus, baryonyx, monolophosaurus, dilophosaurus
 - Sauropod: diplodocus, brachiosaurus, brontosaurus, apatosaurus
 - Raptor Raider: dinosul, clawborn, bonekin, saurfolk, therak, velokhan
-- Paleo-mobs: paleo-warden, paleo-creeper, paleo-enderman, paleo-shulker, paleo-breeze, paleo-slime, paleo-phantom, paleo-creaking paleo-squid, paleo-glow squid, paleo-wither, paleo-tadpole, paleo-frog, paleo-allay, paleo-vex
+- Paleo-mobs: paleo-warden, paleo-creeper, paleo-enderman, paleo-shulker, paleo-breeze, paleo-slime, paleo-phantom, paleo-creaking, paleo-squid, paleo-glow squid, paleo-wither, paleo-tadpole, paleo-frog, paleo-allay, paleo-vex
 - Proto-mammal: eomaia, repenomamus, didelphodon, taeniolabis
