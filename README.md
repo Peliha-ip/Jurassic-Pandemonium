@@ -473,6 +473,7 @@ Advancements:
 - Life Finds a Way (Plant mirror crops in the classic overworld)
 - Future Ruler (Attach all four proto-mammals to a lead)
 - Hisuian Champion? (Rename a Deinonychus "Cynthia" or "Garchomp")
+- Come 'Rang or Shine! (Get the chance of throwing a stone bommerang that will explode into stone shrapnel)
 
 Tags:
 - Dinosaur: stegosaurus, t. rex, triceratops, carnotaurus, diplodocus, velociraptor, deinonychus, troodon, ankylosaurus, spinosaurus, brachiosaurus, brontosaurus, allosaurus, utahraptor, megalosaurus, ceratosaurus, iguanodon, parasaurolophus, corythosaurus, lambeosaurus, edmontosaurus, euoplocephalus, pachycephalosaurus, kentrosaurus, dryosaurus, therizinosaurus, baryonyx, plateosaurus, monolophosaurus, dilophosaurus, archaeopteryx,  torosaurus, apatosaurus, fungiceratops, sniffer, chomper, weaver, feller, plucker, spitter, watcher, trampler
