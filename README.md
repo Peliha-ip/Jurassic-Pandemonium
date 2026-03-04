@@ -76,6 +76,8 @@ Mobs:
 - Didelphodon
 - Taeniolabis
 - Mosquito (With 3 types, 70-80% = passive, 15-25% = nuisance, and 1-5% = deadly)
+- Dimorphodon
+- Dimetrodon
 
 Items:
 - Amber
@@ -191,6 +193,8 @@ Items:
 - Didelphodon spawn egg
 - Taeniolabis spawn egg
 - Mosquito spawn egg
+- Dimorphodon spawn egg
+- Dimetrodon spawn egg
 
  Blocks:
  - Cycad log
@@ -306,6 +310,7 @@ Items:
  - Proto-mammal egg
  - Paleo-frogspawn
  - Ambered mosquito
+ - Dimorphodon egg
 
 Dimension:
 - Mirror overworld
@@ -445,6 +450,8 @@ Features:
 - Mosquitoes are more likely to attack players who just been damaged, sprinted, are low on health, during dusk or dawn, just attacked a mob, have the fire resistance effect, or are low on hunger. Nuisance mosquitoes have a low chance of dropping proto-mammal DNA, and deadly mosquitoes have a high chance of dropping proto-mammal DNA.
 - Renaming a Deinonychus "Cynthia" or "Garchomp" will change its model to have a big Cynthia doll on its back, while also changing its texture to make it look like the pseudo-legendary and the champion from Sinnoh. Kicks from these Deinonychuses are slightly increased.
 - When thrown, stone boomerangs act like a normal boomerang, but are slower and have a chance to break. However, when it does break, it shoots out stone shrapnel, damaging nearby mobs; picture a stone boomerang, as if it were slower and had a chance to turn into a prehistoric grenade.
+- Dimorphodons can pick up items and small mobs. They can either intentionally drop it to the player safely or accidentally drop it high in the sky and, if it was a small mob, to die instantly.
+- Dimetrodons are peaceful animals that can be tamed, but unlike chompers, they can pick up items and use them. However, they tend to sleep during the night.
 
 Advancements: 
 - Remember Who You Are (Bring a chicken to the mirror overworld)
