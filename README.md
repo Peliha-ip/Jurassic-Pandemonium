@@ -311,6 +311,7 @@ Items:
  - Paleo-frogspawn
  - Ambered mosquito
  - Dimorphodon egg
+ - Dimetrodon egg
 
 Dimension:
 - Mirror overworld
