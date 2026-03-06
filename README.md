@@ -453,6 +453,7 @@ Features:
 - When thrown, stone boomerangs act like a normal boomerang, but are slower and have a chance to break. However, when it does break, it shoots out stone shrapnel, damaging nearby mobs; picture a stone boomerang, as if it were slower and had a chance to turn into a prehistoric grenade.
 - Dimorphodons can pick up items and small mobs. They can either intentionally drop it to the player safely or accidentally drop it high in the sky and, if it was a small mob, to die instantly.
 - Dimetrodons are peaceful animals that can be tamed, but unlike chompers, they can pick up items and use them. However, they tend to sleep during the night.
+- The mirror overworld tends to resemble more the classic overworld as it was during the beta days or even 2011-2012 than the modern classic overworld.
 
 Advancements: 
 - Remember Who You Are (Bring a chicken to the mirror overworld)
