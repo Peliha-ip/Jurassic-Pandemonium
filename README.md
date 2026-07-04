@@ -78,6 +78,7 @@ Mobs:
 - Mosquito (With 3 types, 70-80% = passive, 15-25% = nuisance, and 1-5% = deadly)
 - Dimorphodon
 - Dimetrodon
+- Sarcosuchus
 
 Items:
 - Amber
@@ -195,6 +196,7 @@ Items:
 - Mosquito spawn egg
 - Dimorphodon spawn egg
 - Dimetrodon spawn egg
+- Sarcosuchus spawn egg
 
  Blocks:
  - Cycad log
@@ -312,6 +314,7 @@ Items:
  - Ambered mosquito
  - Dimorphodon egg
  - Dimetrodon egg
+ - Sarcosuchus egg
 
 Dimension:
 - Mirror overworld
@@ -442,7 +445,7 @@ Features:
 - If a player or a tamed mob has the dino-might effect, fellers can use wooded attacks to fight off hostile mobs
 - Since sniffers don't attack, a player or a tamed mob with the dino-might effect would get its search cooldown cut by half.
 - Since pluckers don't attack, a player or a tamed mob with the dino-might effect would get its plucker cud production multiplied by 2.
-- Since watchers don't attack, a player or a tamed mob with the dino-might effect would make it dig up loot from structures similar to sniffer.
+- Since watchers don't attack, a player or a tamed mob with the dino-might effect would make it dig up loot from structures similar to the sniffer.
 - Since weavers don't attack, a player or a tamed mob with the dino-might effect would see its bristleback production multiplied by 2.
 - Players or tamed mobs can create stampedes of their own with the herdcall effect. Sauropods affected by herdcall become unstoppable bulldozers until the effect wears off. Mobs and structures in the way of these sauropods are instantly trampled and destroyed.
 - Not only that, but stampedes can also be triggered by rumble drums. Rumble drums also work in the classic overworld, but classic overworld stampedes consist of cows, pigs, sheep, horses, donkeys, llamas, camels, and goats.
@@ -454,6 +457,7 @@ Features:
 - Dimorphodons can pick up items and small mobs. They can either intentionally drop it to the player safely or accidentally drop it high in the sky and, if it was a small mob, to die instantly.
 - Dimetrodons are peaceful animals that can be tamed, but unlike chompers, they can pick up items and use them. However, they tend to sleep during the night.
 - The mirror overworld tends to resemble more the classic overworld as it was during the beta days or even 2011-2012 than the modern classic overworld.
+- Sarcosuchus are likely to ambush dinosaurs and players.
 
 Advancements: 
 - Remember Who You Are (Bring a chicken to the mirror overworld)
