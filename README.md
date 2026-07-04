@@ -79,6 +79,7 @@ Mobs:
 - Dimorphodon
 - Dimetrodon
 - Sarcosuchus
+- Protosphyraena
 
 Items:
 - Amber
@@ -109,7 +110,7 @@ Items:
 - Utahraptor spawn egg
 - Troodon spawn egg
 - Ankylosaurus spawn egg
--  Spinosaurus spawn egg
+- Spinosaurus spawn egg
 - Brachiosaurus spawn egg
 - Brontosaurus spawn egg
 - Allosaurus spawn egg
@@ -197,6 +198,7 @@ Items:
 - Dimorphodon spawn egg
 - Dimetrodon spawn egg
 - Sarcosuchus spawn egg
+- Protosphyraena spawn egg
 
  Blocks:
  - Cycad log
