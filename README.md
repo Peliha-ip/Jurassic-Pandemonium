@@ -317,6 +317,7 @@ Items:
  - Dimorphodon egg
  - Dimetrodon egg
  - Sarcosuchus egg
+ - Protosphyraena egg
 
 Dimension:
 - Mirror overworld
